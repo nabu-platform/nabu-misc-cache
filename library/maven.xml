@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><maven>
+	<artifacts>nabu:eai-module-cache</artifacts>
+	<internalDomains>nabu</internalDomains>
+	<provided>be.nabu.libs.resources:resources-api</provided>
+	<provided>be.nabu.libs.cache:cache-api</provided>
+	<provided>be.nabu.utils:utils-io</provided>
+	<provided>be.nabu.utils:utils-codec</provided>
+	<provided>org.slf4j:slf4j-api</provided>
+	<updateSnapshots>false</updateSnapshots>
+</maven>
